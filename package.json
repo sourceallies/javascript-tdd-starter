@@ -11,7 +11,7 @@
     "url": "git+https://github.com/sourceallies/javascript-tdd-starter.git"
   },
   "author": "Source Allies",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/sourceallies/javascript-tdd-starter/issues"
   },
